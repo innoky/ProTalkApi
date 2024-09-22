@@ -1,4 +1,6 @@
 # ProTalkApi
+![image](https://github.com/user-attachments/assets/5b695c63-c4af-434d-b46c-3c6c981fc79c)
+
 Эта микробиблиотека помогает удобно пользоваться API сервисом ProTalk
 
 Все функции в качестве аргумента имеют API_TOKEN. Его следует получать в личном аккаунте ProTalk, в настройках конкретной модели. 
